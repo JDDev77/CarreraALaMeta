@@ -1,4 +1,4 @@
-package IF_ELSE_POR_NIVELES;
+package Carpeta_Pruebas;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -7,7 +7,8 @@ public class jas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean terminar = false;
-        String[] letrasDNI = {"T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E"};
+        String[] letrasDNI = {"T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V",
+                "H", "L", "C", "K", "E"};
 
 
         while (!terminar){
