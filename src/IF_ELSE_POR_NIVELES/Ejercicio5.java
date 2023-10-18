@@ -23,7 +23,7 @@ public class Ejercicio5 {
             " " + num);
         else if (num2 > num && num2 > num3 && num > num3) {
 
-            ç
+            System.out.println("jaja");
 
         }
 
